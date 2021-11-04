@@ -1,6 +1,7 @@
 Lista Pac TV
 
-Contato http://t.me/prodpac
+Telegram: prodpac
+ZapZapkkkkk: +557481033040
 
 
 >ESPORTES⚽️
