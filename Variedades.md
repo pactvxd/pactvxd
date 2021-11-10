@@ -1,0 +1,76 @@
+{
+	"cinemovies":[
+		{
+			"id":1,
+			"name":"COMEDY CENTRAL",
+			"link":"https://canaismax.com/assistir.php?chmax=comedycentralhd",
+			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621296984479.png?alt=media&token=aaf8155e-5eaf-4a44-a015-d1f9eb45f939"
+		},
+		{
+			"id":2,
+			"name":"DISCOVERY TURBO",
+			"link":"https://canaismax.com/assistir.php?chmax=discoveryturbohd",
+			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297040721.png?alt=media&token=79d0e927-1391-41d8-afa9-35f76a44dfdc"
+		},
+		{
+			"id":3,
+			"name":"FISH TV",
+			"link":"https://canaismax.com/assistir.php?chmax=fishtvhd",
+			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/fishtv1.png?alt=media&token=8547be00-843e-4935-ade9-8ce9e06e2c92"
+		},
+		{
+			"id":4,
+			"name":"FOOD NETWORK",
+			"link":"https://canaismax.com/assistir.php?chmax=foodnetworkhd",
+			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Food_Network_-_Logo_2016.png?alt=media&token=54a51360-dd0c-432c-a733-9f1994094dfb"
+		},
+		{
+			"id":5,
+			"name":"GNT",
+			"link":"https://canaismax.com/assistir.php?chmax=gnthd",
+			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-GNT_logo-roxo.svg.png?alt=media&token=78f83197-3edd-4d92-a415-40960da1d199"
+		},
+		{
+			"id":6,
+			"name":"MULTISHOW",
+			"link":"https://canaismax.com/assistir.php?chmax=multishowhd",
+			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297371486.png?alt=media&token=dd78accb-e58c-4284-ab64-7b868d64c58b"
+		},
+		{
+			"id":7,
+			"name":"ID",
+			"link":"https://canaismax.com/assistir.php?chmax=idhd",
+			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-InvestigationDiscoveryLogo2020.svg.png?alt=media&token=a1164742-0cc3-4147-a0c2-1f1db7b82495"
+		},
+		{
+			"id":8,
+			"name":"LIFE TIME",
+			"link":"https://canaismax.com/assistir.php?chmax=lifetimehd",
+			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297530754.png?alt=media&token=8547d2a9-dde7-4ecc-a8d6-4f2698e2d4dcb"
+		},
+		{
+			"id":9,
+			"name":"MAIS GLOBOSAT",
+			"link":"https://canaismax.com/assistir.php?chmax=maisglobosathd",
+			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Mais_na_Tela_(2020).png?alt=media&token=9ef0efca-a42a-43c2-b350-c1b85c4ee993"
+		},
+		{
+			"id":10,
+			"name":"MTV",
+			"link":"https://canaismax.com/assistir.php?chmax=mtvhd",
+			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297671561.png?alt=media&token=78411fff-8fa4-4718-b6b6-6ab77420219f"
+		},
+		{
+			"id":11,
+			"name":"TLC",
+			"link":"https://canaismax.com/assistir.php?chmax=tlchd",
+			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297747921.png?alt=media&token=1eb8f307-bc63-4710-9c50-89b3a70da14c"
+		},
+		{
+			"id":12,
+			"name":"VIVA",
+			"link":"https://canaismax.com/assistir.php?chmax=vivahd",
+			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-Canal_Viva_2018_wordmark.svg.png?alt=media&token=6ac47014-3d19-4a7f-9611-779becf95bbd"
+		}
+	]
+}
