@@ -2,7 +2,7 @@
 	"cinemovies":[
 		{
 			"id":1,
-			"name":"GLOBO RJ",
+			"name":"GLOBO RIO",
 			"link":"https://canaismax.com/assistir.php?chmax=globorjhd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/globorj.png?alt=media&token=c6430504-493f-46f8-a0b7-12007a973c25"
 		},
