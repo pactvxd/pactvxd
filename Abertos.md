@@ -9,7 +9,7 @@
 		{
 			"id":2,
 			"name":"GLOBO MINAS",
-			"link":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=globomghd",
+			"link":"https://nn4.azureedge.net//hls1/bobosp.m3u8",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Logotipo_da_TV_Globo_Minas.png?alt=media&token=10397c7a-8cc7-421f-8c0e-ac224099ab69"
 		},
 		{
