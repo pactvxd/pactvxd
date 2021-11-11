@@ -38,8 +38,8 @@
 		},
 		{
 			"id":7,
-			"name":"MAIS GLOBOSAT",
-			"link":"https://canaismax.com/assistir.php?chmax=maisglobosatsd",
+			"name":"HOME AND HEALTH",
+			"link":"https://canaismax.com/assistir-discovery-home-and-health-hd-ao-vivo-online-gratis-24-horas",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/loja-6f802.appspot.com/o/b3c3ac4d4acd4de324b5cc8a446315db.png?alt=media&token=bde60ec2-ab3c-4b97-b4e5-dd3b844be2ce"
 		},
 		{
