@@ -63,13 +63,13 @@
 		{
 			"id":11,
 			"name":"NAT GEO",
-			"link":"https://homeingles.fun/player3/canaishlb.php?canal=natgeo",
+			"link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmcrvAGjtNAYXDpdrUwOP0V3Y9LsFK1KIhPA&usqp=CAU",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/logo.png?alt=media&token=b520c8a0-f8a9-4823-8755-f83ce361a3c7"
 		},
 		{
 			"id":12,
 			"name":"NAT GEO WILD",
-			"link":"https://homeingles.fun/player3/canaishlb.php?canal=natgeowild",
+			"link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmcrvAGjtNAYXDpdrUwOP0V3Y9LsFK1KIhPA&usqp=CAU",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-National_Geographic_Wild_logo.svg.png?alt=media&token=cbc36d72-54a5-464f-8863-d67816e2ac7c"
 		},
 		{
